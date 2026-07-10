@@ -1,4 +1,4 @@
-# Detecção de Fraudes em E-commerce
+# Deteccao de Fraudes em E-commerce
 
 Sistema em SQL para detectar transações suspeitas em e-commerce, identificando compras acima de R$10.000, mudanças de país, dispositivos novos com valores altos e múltiplas tentativas recusadas. O script cria tabelas, insere dados, executa consultas e gera relatórios com views. Desenvolvido com SQLite. Teste no SQLite Online.
 
@@ -36,6 +36,4 @@ O projeto está em um único arquivo SQL contendo:
 
 Seu Nome - Estudante de Ciência da Computação
 
-## Licença
 
-Este projeto está sob a licença MIT.
