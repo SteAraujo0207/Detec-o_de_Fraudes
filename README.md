@@ -34,6 +34,6 @@ O projeto está em um único arquivo SQL contendo:
 
 ## Autora
 
-Seu Nome - Estudante de Ciência da Computação
+Stephanny Araujo - Estudante de Ciência da Computação
 
 
